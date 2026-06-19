@@ -45,6 +45,8 @@ Before fine-tuning, a zero-shot baseline was attempted using Groq's `llama-3.3-7
 
 ### Confusion Matrix
 ![Confusion Matrix Output](confusion_matrix.png)
+<img width="963" height="693" alt="Screenshot 2026-06-18 at 7 27 45 PM" src="https://github.com/user-attachments/assets/bc00465e-faa0-4f35-9b4a-73f0c40650c4" />
+
 
 ---
 
